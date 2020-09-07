@@ -1,0 +1,5 @@
+Server Name: 127.0.0.1
+Port : 1433
+DB Name : Demo
+Login : Guru99
+Password : 12345

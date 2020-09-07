@@ -1,0 +1,75 @@
+
+                                                  Sales _____ 0044(0)1923249911
+INVOICE      Fax _______0044(0)1923236879
+                                                  Email __ accounts@trendm.co.uk
+                                                  Web ________ www.trend-uk.com
+InvoiceNo:                            Page:                               InvoiceDate:
+OP/I740990   1 of 1   25-Jul-19
+UK: Trend Machinery& Cutting Tools Limited Odhams TradingEstate St. Albans Road Watford WD24 7TR England.
+US Office/Remit:Trend Routing TechnologyInc 7351 West FriendlyAvenue Suite A Greensboro,NC 27410.
+                                                  INVOICE ADDRESS                     DELIVERYADDRESS
+                E D ELSON LIMITED                      MR WOODART FURNITURE
+                UNIT 1 BRICK KNOLL PARK               WOODART FURNITURE
+                ASHLEY ROAD                          118 FERRYMEAD AVENUE
+            ST ALBANS                             GREENFORD
+             AL1 5UG                               MIDDLESEX
+                                                  UB6 9TN
+
+
+   CUSTOMERORDERREFERENCE     ACCOUNTNUMBER   DESPATCHBY TIME     DATE              INPUT BY
+DIRECTWOODART          ELSO01         PDI        12:44   25-Jul-19       FAU
+Qty                                                                                  List      Disc      Unit
+Sent Product Ref.             Product Description                                     Price       %     Cost
+         1PDI               1-2 DAYS order by 5:30                       4.99           4.99
+          7 C001AX1/4TC       TWO FLUTE 3.0MM DIA X 9.5MM CUT         12.22   50.0    6.11
+
+DespatchNote No:
+V34022
+BANK DETAILS
+NationalWestminsterBank plc
+136 The Centre, Feltham
+Middlesex TW13 4BS UK
+Sort Code: 60-08-46
+Account No:67548458
+IBAN:
+GB78NWBK60084667548458
+SWIFT:   NWBKGB2L
+VAT No:   GB 301 8701 94
+REG No:  1338493 England
+
+
+ON DATE
+24-Jul-19
+Line      VAT      VAT
+Cost       %   Amount
+4.99     20    1.00
+42.77     20   8.55
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                  Goods Total       47.76
+VAT             20.00
+                                                  VAT Total        9.55
+Goods Total       47.76
+VAT Total          9.55                                                             Total GBP        57.31
+                                                  Std Terms - 30 days nett monthly
+OUR FULL CONDITIONSOF SALE APPLY SEE OVERLEAF
